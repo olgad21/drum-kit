@@ -35,7 +35,6 @@ html {
     border: 4px solid grey;
     transition: all 0.07s;
     background: rgba(0, 0, 0, 0.2);
-    cursor: pointer;
 }
 
 kbd {
@@ -51,4 +50,5 @@ kbd {
 .playing {
     transform: scale(1.1);
     border-color: #ffc600;
+    box-shadow: 0 0 1rem #ffc600;
 }
